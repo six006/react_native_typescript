@@ -6,6 +6,6 @@
 import {
   AppRegistry
 } from 'react-native';
-import ReactNativeTypeScript from './build';
+import ReactNativeTypeScript from './dist';
 
 AppRegistry.registerComponent('react_native_typescript', () => ReactNativeTypeScript);
